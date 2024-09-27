@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Rahul Palanivel</h1>
+<h3 align="center">A passionate Software developer</h3>
+
 # 💫 About Me:
 👋 Hi, I’m @rahulpalanivel a software developer with an interest in developing full-stack applications<br>👀 I’m experienced in developing both web and mobile applications<br>🌱 I’m currently looking to learn and gain experience in the field of software development
 
