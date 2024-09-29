@@ -11,8 +11,8 @@ to contribute to the success of the organization.</h3>
 🔭 I’m currently working on building full-stack applications<br>
 🌱 I’m looking to learn and gain experience in the field of software development<br>
 📫 You can reach me at **palanivelrahul45@gmail.com**<br>
-👨‍💻 All of my projects are available at [linktoprojects](https://github.com/rahulpalanivel?tab=repositories)<br>
-📄 Know about my experiences [linktoresume](linktoresume)<br>
+👨‍💻 All of my projects are available at [github Repo](https://github.com/rahulpalanivel?tab=repositories)<br>
+📄 Know about my experiences [resume](linktoresume)<br>
 
 
 ## 🌐 Socials:
