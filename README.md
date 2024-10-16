@@ -6,13 +6,13 @@ challenging and rewarding opportunity to utilize my skills and expertise
 to contribute to the success of the organization.</h3>
 
 # 💫 About Me:
-👋 Hi, I’m @rahulpalanivel a software developer with an interest in developing full-stack applications<br>
+👋 Hi, I’m Rahul Palanivel a software developer with an interest in developing full-stack applications<br>
 👀 I have experiance in developing both web and mobile applications<br>
 🔭 I’m currently working on building full-stack applications<br>
 🌱 I’m looking to learn and gain experience in the field of software development<br>
 📫 You can reach me at **palanivelrahul45@gmail.com**<br>
 👨‍💻 All of my projects are available at [github Repo](https://github.com/rahulpalanivel?tab=repositories)<br>
-📄 Know about my experiences [resume](linktoresume)<br>
+📄 Know about my experiences [resume](https://drive.google.com/file/d/1Ld-Y7ckDRQo2jAib0o80nFSX3Bbarxn1/view?usp=sharing)<br>
 
 
 ## 🌐 Socials:
